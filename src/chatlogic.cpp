@@ -18,8 +18,8 @@ ChatLogic::ChatLogic() {
   // create instance of chatbot
   // _chatBot = new ChatBot("../images/chatbot.png");
 
-  // add pointer to chatlogic so that chatbot answers can be passed on to the
-  // GUI
+  // // add pointer to chatlogic so that chatbot answers can be passed on to the
+  // // GUI
   // _chatBot->SetChatLogicHandle(this);
 
   ////
@@ -37,10 +37,10 @@ ChatLogic::~ChatLogic() {
   // delete all nodes
   // TASK3
   // for (auto it = std::begin(_nodes); it != std::end(_nodes); ++it) {
-  //   delete *it;
+  //   delete it->get();
   // }
 
-  // // delete all edges
+  // // // delete all edges
   // for (auto it = std::begin(_edges); it != std::end(_edges); ++it) {
   //   delete *it;
   // }

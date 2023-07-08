@@ -1,4 +1,5 @@
 CMakeFiles/membot.dir/src/chatlogic.cpp.o: \
+  /Library/Developer/CommandLineTools/usr/lib/clang/14.0.3/share/asan_ignorelist.txt \
   /Users/alwaleed/Desktop/MemBot/src/chatlogic.cpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/algorithm \
   /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk/usr/include/c++/v1/__assert \
